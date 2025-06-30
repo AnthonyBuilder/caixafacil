@@ -20,7 +20,6 @@ import {
   NavigationMenuList,
   NavigationMenuTrigger
 } from "@/components/ui/navigation-menu"
-import { Link } from "lucide-react";
 
 import { ChevronDownIcon } from "lucide-react"
 import { Button } from "@/components/ui/button"
@@ -47,8 +46,6 @@ import {
 
 //textArea 
 import { Textarea } from "@/components/ui/textarea"
-
-
 
 //select view
 
